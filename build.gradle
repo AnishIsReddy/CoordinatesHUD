@@ -13,8 +13,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.1'
-group = 'gg.inferno.coordsdisplay' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+version = '1.0'
+group = 'gg.inferno.coordinateshud' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'CoordinatesHUD'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.

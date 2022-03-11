@@ -16,7 +16,7 @@ issueTrackerURL=""
 showAsResourcePack=false
 
 [[mods]]
-  modId="coordsdisplay"
+  modId="coordinateshud"
   version="1.0.0.0"
   displayName="Coordinates HUD"
   updateJSONURL=""
